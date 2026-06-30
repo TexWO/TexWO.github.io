@@ -11,54 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* BSc. in Technical science (Software)
+* MSc. in Computer science (Expected 2028)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Red Barnet Ungdom
+  * Worked as an IT consultant
+  * Keeping websites up-to-date and helping servers being maintained while also managing the networking part
+  * General IT-support for colleagues
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Engineered robust solutions
+* Iterative development
+* Cross-language profiency
+* Collaborative development workflows
+  * Git
+  * Code reviews
+  * Agile methodologies
+* Applied theoretical concepts to real-world challenges
+  * The core concept of PBL (Problem Based Learning) teached at AAU (Aalborg University)
+* Object Oriented Programming (Java) and memory management and systems-level programming (C++)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+    
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Managing all IT-infrastructure in an organization (IT-equipment, servers, software projects, helping colleagues...)
